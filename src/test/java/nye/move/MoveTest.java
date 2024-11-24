@@ -1,6 +1,6 @@
 package nye.move;
 
-import nye.move.Move;
+import nye.lepes.Move;
 import org.testng.annotations.Test;
 import static org.junit.jupiter.api.Assertions.*;
 

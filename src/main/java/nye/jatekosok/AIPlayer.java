@@ -1,4 +1,4 @@
-package nye.players;
+package nye.jatekosok;
 
 import nye.tabla.Board;
 

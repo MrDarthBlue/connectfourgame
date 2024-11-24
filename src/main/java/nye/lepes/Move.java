@@ -1,4 +1,4 @@
-package nye.move;
+package nye.lepes;
 import java.util.Objects;
 
 public final class Move {

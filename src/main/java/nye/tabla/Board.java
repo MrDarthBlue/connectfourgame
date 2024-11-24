@@ -1,5 +1,5 @@
 package nye.tabla;
-import nye.players.Player;
+import nye.jatekosok.Player;
 
 import java.io.File;
 import java.io.FileWriter;

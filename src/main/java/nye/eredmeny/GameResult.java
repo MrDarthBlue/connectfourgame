@@ -1,4 +1,4 @@
-package nye.gameresult;
+package nye.eredmeny;
 import java.util.Objects;
 
 public final class GameResult {

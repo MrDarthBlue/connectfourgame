@@ -1,8 +1,8 @@
 package nye;
 
-import nye.database.Database;
-import nye.players.AIPlayer;
-import nye.players.Player;
+import nye.adatbazis.Database;
+import nye.jatekosok.AIPlayer;
+import nye.jatekosok.Player;
 import nye.tabla.Board;
 import java.io.IOException;
 import java.io.File;

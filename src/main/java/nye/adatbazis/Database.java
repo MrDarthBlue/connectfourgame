@@ -1,4 +1,4 @@
-package nye.database;
+package nye.adatbazis;
 import java.sql.*;
 
 public class Database {

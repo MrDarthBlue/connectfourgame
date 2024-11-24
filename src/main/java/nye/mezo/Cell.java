@@ -1,4 +1,4 @@
-package nye.cell;
+package nye.mezo;
 import java.util.Objects;
 
 public final class Cell {

@@ -1,4 +1,4 @@
-package nye.players;
+package nye.jatekosok;
 import java.util.Objects;
 
 public class Player {

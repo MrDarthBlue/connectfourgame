@@ -1,6 +1,6 @@
 package nye.database;
 
-import nye.database.Database;
+import nye.adatbazis.Database;
 import org.junit.jupiter.api.*;
 import java.sql.*;
 import static org.junit.jupiter.api.Assertions.*;

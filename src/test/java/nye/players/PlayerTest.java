@@ -1,6 +1,6 @@
 package nye.players;
 
-import nye.players.Player;
+import nye.jatekosok.Player;
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 

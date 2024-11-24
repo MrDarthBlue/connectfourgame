@@ -1,6 +1,6 @@
 package nye.players;
 
-import nye.players.AIPlayer;
+import nye.jatekosok.AIPlayer;
 import nye.tabla.Board;
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
